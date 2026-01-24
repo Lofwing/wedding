@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "description": "Lekfulla, metaforiska frågor för AI-tolkning. Alla frågor är frivilliga och kan slumpas per gäst.",
+    "freeTextLabel": "Annat (frivilligt)"
+  },
+  "questions": [
+    {
+      "id": "animal",
+      "question": "Vilket djur skulle du helst återfödas som?",
+      "options": ["Katt", "Hund", "Fågel", "Häst", "Sköldpadda"]
+    },
+    {
+      "id": "season",
+      "question": "Om du vore en årstid – vilken?",
+      "options": ["Vår", "Sommar", "Sensommar", "Höst", "Vinter"]
+    },
+    {
+      "id": "room",
+      "question": "Om du var ett rum, vilket skulle du vara?",
+      "options": ["Kök", "Vardagsrum", "Bibliotek", "Hall", "Balkong"]
+    },
+    {
+      "id": "weather",
+      "question": "Vilket väder känns mest \"du\"?",
+      "options": ["Klar himmel", "Lätt regn", "Åska på avstånd", "Dimma", "Sol efter regn"]
+    },
+    {
+      "id": "tempo",
+      "question": "Om ditt liv hade ett tempo – vilket?",
+      "options": ["Långsamt", "Stadigt", "Varierande", "Snabbt", "Oklart men med pauser"]
+    },
+    {
+      "id": "movement",
+      "question": "Var trivs du bäst?",
+      "options": ["I rörelse", "I stillhet", "I samtal", "I bakgrunden", "Mitt i allt"]
+    },
+    {
+      "id": "timing",
+      "question": "Är du oftast:",
+      "options": ["Tidig", "I tid", "Precis på gränsen", "På väg", "Redan där mentalt"]
+    },
+    {
+      "id": "navigation",
+      "question": "Hur tar du dig helst fram?",
+      "options": ["Med karta", "På känsla", "Via omvägar", "Dit andra går", "Dit det känns rätt"]
+    },
+    {
+      "id": "position",
+      "question": "Håller du dig helst:",
+      "options": ["I mitten", "I utkanten", "Nära en person", "I rörelse", "Där det råkar bli"]
+    },
+    {
+      "id": "energy",
+      "question": "Vad ger dig mest energi?",
+      "options": ["Människor", "Tystnad", "Skratt", "Struktur", "Spontanitet"]
+    },
+    {
+      "id": "timeOfDay",
+      "question": "När på dygnet är du mest dig själv?",
+      "options": ["Tidig morgon", "Förmiddag", "Eftermiddag", "Sen kväll", "Natt"]
+    },
+    {
+      "id": "safety",
+      "question": "Hur märks det att du är trygg?",
+      "options": ["Du lyssnar", "Du skojar", "Du är stilla", "Du tar ansvar", "Du slappnar av"]
+    },
+    {
+      "id": "underrated",
+      "question": "Vad brukar folk underskatta hos dig?",
+      "options": ["Tålamod", "Humor", "Eftertanke", "Initiativ", "Känsla för stämning"]
+    },
+    {
+      "id": "perspective",
+      "question": "Vad är oftast viktigast för dig?",
+      "options": ["Helheten", "Detaljerna", "Människorna", "Stämningen", "Funktionen"]
+    },
+    {
+      "id": "problemSolving",
+      "question": "Vad löser flest problem?",
+      "options": ["Humor", "Struktur", "Tid", "Samtal", "Att släppa taget"]
+    },
+    {
+      "id": "lettingGo",
+      "question": "Vad är svårast att släppa taget om?",
+      "options": ["Planer", "Minnen", "Relationer", "Kontroll", "Förväntningar"]
+    },
+    {
+      "id": "presence",
+      "question": "När känner du dig mest närvarande?",
+      "options": ["I samtal", "När du är ensam", "När du skrattar", "När du lyssnar", "När inget händer"]
+    },
+    {
+      "id": "weddingAvoid",
+      "question": "Vad skulle du absolut inte vilja vara på ett bröllop?",
+      "options": ["Huvudperson", "Den som spiller", "Den som avbryter", "Den som stressar", "Den som missar något"]
+    },
+    {
+      "id": "role",
+      "question": "Vilken roll hamnar du oftast i, även om du inte tänkt det?",
+      "options": ["Lyssnaren", "Samordnaren", "Observatören", "Fixaren", "Stämningshöjaren"]
+    },
+    {
+      "id": "firstImpression",
+      "question": "Vad märker man först hos dig, tror du?",
+      "options": ["Lugnet", "Energin", "Humorn", "Närvaron", "Tystnaden"]
+    },
+    {
+      "id": "superpower",
+      "question": "Vad är din superkraft i grupp?",
+      "options": ["Att få folk att slappna av", "Att få saker gjorda", "Att lyssna", "Att se helheten", "Att få andra att skratta"]
+    },
+    {
+      "id": "inBetween",
+      "question": "Vad är du oftast \"mitt i\"?",
+      "options": ["En förändring", "Ett samtal", "Ett beslut", "En period", "Något som håller på att landa"]
+    },
+    {
+      "id": "aroundYou",
+      "question": "Vad tenderar att lösa sig runt dig?",
+      "options": ["Stämning", "Praktiska saker", "Missförstånd", "Tempo", "Otydlighet"]
+    },
+    {
+      "id": "arrival",
+      "question": "Vad händer oftast när du dyker upp?",
+      "options": ["Det blir lugnare", "Det blir roligare", "Det blir tydligare", "Det blir lättare", "Det bara fungerar"]
+    },
+    {
+      "id": "carry",
+      "question": "Vad bär du med dig utan att tänka på det?",
+      "options": ["Trygghet", "Nyfikenhet", "Ansvar", "Humor", "Eftertanke"]
+    },
+    {
+      "id": "freeText",
+      "question": "Är det något som känns som du, men som inte ryms ovan?",
+      "options": []
+    }
+  ]
+}

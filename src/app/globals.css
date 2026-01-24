@@ -1,26 +1,45 @@
-@import "tailwindcss";
+@import 'tailwindcss';
 
 :root {
   --background: #ffffff;
   --foreground: #171717;
 }
+body {
+  font-family: var(--font-geist-mono), sans-serif;
+}
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
+  /* --font-sans: var(--font-inter);
+  --font-heading: var(--font-space-grotesk); */
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+@theme {
+  /* --color-background: #fff9f4; */
+  /* --color-background: #f7f6f3; */
+  /* --color-background: #fff; */
+  --color-background: ivory;
+  /* --color-surface: #e5e5e5; */
+  /* --color-surface: #edebe7; */
+  --color-surface: #f9f9f9;
+  /* --color-surface: #fffce2;
+  --color-background: #fff; */
+
+  --color-secondary: #ffdcc6;
+  --color-primary: pink;
+
+  --spacing-page-x-offsets-sm: 16px;
+  --spacing-page-x-offsets-lg: 60px;
+  --width-full-with-offsets: calc(
+    100vw - (var(--spacing-page-x-offsets-sm) * 2)
+  );
+  --width-full-with-offsets-lg: calc(
+    100vw - (var(--spacing-page-x-offsets-lg) * 2)
+  );
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
-}
+/* Mörkgrön: #2f563c */
+
+/* surface: #F6EBD6 */
+/* background: #FFF4DF */
